@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.11",
+    "socket.io": "^3.0.5"
+  }
+}
